@@ -20,7 +20,7 @@ steps:
     OverWrite: true
 - task: SonarQubePrepare@4
   inputs:
-    SonarQube: 'sonar-test'
+    SonarQube: 'sonarqube'
     scannerMode: 'Other'
     extraProperties: |
       # Additional properties that will be passed to the scanner,
