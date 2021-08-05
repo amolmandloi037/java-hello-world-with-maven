@@ -52,7 +52,7 @@
 <distributionManagement>   
 	<repository>
 		<id>artifacts</id>
-		<url>https://pkgs.dev.azure.com/amolmandloi7/helloworld/_packaging/artifacts/maven/v1</url>
+		<url>https://pkgs.dev.azure.com/amolmandloi7/helloworld/_packaging/sonar/maven/v1</url>
 		<releases>
 			<enabled>true</enabled>
 		</releases>
@@ -65,7 +65,7 @@
 <repositories>
 	<repository>
 		<id>artifacts</id>
-		<url>https://pkgs.dev.azure.com/amolmandloi7/helloworld/_packaging/artifacts/maven/v1</url>
+		<url>https://pkgs.dev.azure.com/amolmandloi7/helloworld/_packaging/sonar/maven/v1</url>
 		<releases>
 			<enabled>true</enabled>
 		</releases>
